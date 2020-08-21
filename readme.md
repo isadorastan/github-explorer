@@ -3,7 +3,7 @@ This project was done as a hands on project to practice React.
 
 About the project:
 - Dashboard Page
-	- Search and list git repositories
+	- Search and list git repositories from git api
 	- Save and retrieve the list from local storage
 - Issues Page
 	- Show repository info, like: user avatar, number of forks, starts, etc..
